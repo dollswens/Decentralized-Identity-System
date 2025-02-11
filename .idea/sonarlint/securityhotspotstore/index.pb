@@ -7,3 +7,5 @@ F
 tests/identity.test.ts,a/2/a2818950b3433d6db8f4482a48260f68fb09c282
 R
 "contracts/credential-issuance.clar,e/8/e8cc6a7425325a7af9cc95450ccc857f9fe46165
+Q
+!tests/credential-issuance.test.ts,8/a/8a655c35c0ef4977814e5de81eea3103aaff30f0
